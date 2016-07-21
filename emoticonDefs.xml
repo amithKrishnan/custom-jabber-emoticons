@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <emoticons>
-	<emoticon defaultKey=":)" image="zoidberg.png" text="Smile" order="1">
+	<emoticon defaultKey=":)" image="smile.png" text="Smile" order="1">
 		<alt>:-)</alt>
 		<alt>^_^</alt>
 	</emoticon>
-	<emoticon defaultKey=":(" image="zoidberg.png" text="Sad" order="2">
+	<emoticon defaultKey=":(" image="sad.png" text="Sad" order="2">
 		<alt>:-(</alt>
 	</emoticon>
-	<emoticon defaultKey=":D" image="zoidberg.png" text="Grin" order="3">
+	<emoticon defaultKey=":D" image="grin.png" text="Grin" order="3">
 		<alt>:-D</alt>
 	</emoticon>
-	<emoticon defaultKey=";)" image="zoidberg.png" text="Wink" order="4">
+	<emoticon defaultKey=";)" image="wink.png" text="Wink" order="4">
 		<alt>;-)</alt>
 	</emoticon>
-	<emoticon defaultKey=":o" image="zoidberg.png" text="Big surprise" order="5">
+	<emoticon defaultKey=":o" image="bigsurprise.png" text="Big surprise" order="5">
 		<alt>:O</alt>
 		<alt>:-o</alt>
 		<alt>:-O</alt>
 	</emoticon>
-	<emoticon defaultKey=":P" image="zoidberg.png" text="Tongue" order="6">
+	<emoticon defaultKey=":P" image="tongue.png" text="Tongue" order="6">
 		<alt>:p</alt>
 		<alt>:-P</alt>
 		<alt>:-p</alt>
 	</emoticon>
-	<emoticon defaultKey="B)" image="zoidberg.png" text="Cool" order="7">
+	<emoticon defaultKey="B)" image="cool.png" text="Cool" order="7">
 		<alt>(cool)</alt>
 		<alt>(Cool)</alt>
 		<alt>(COOL)</alt>
 		<alt>B-)</alt>
 		<alt>8-)</alt>
 	</emoticon>
-	<emoticon defaultKey="&gt;:(" image="zoidberg.png" text="Angry" order="8">
+	<emoticon defaultKey="&gt;:(" image="angry.png" text="Angry" order="8">
 		<alt>(angry)</alt>
 		<alt>(Angry)</alt>
 		<alt>(ANGRY)</alt>
 		<alt>&gt;:-(</alt>
 	</emoticon>
-	<emoticon defaultKey=":s" image="zoidberg.png" text="Undecided" order="9">
+	<emoticon defaultKey=":s" image="undecided.png" text="Undecided" order="9">
 		<alt>:S</alt>
 		<alt>:-s</alt>
 		<alt>:-S</alt>
 	</emoticon>
-	<emoticon defaultKey=":x" image="zoidberg.png" text="Secret" order="10">
+	<emoticon defaultKey=":x" image="secret.png" text="Secret" order="10">
 		<alt>(secret)</alt>
 		<alt>(Secret)</alt>
 		<alt>(SECRET)</alt>
@@ -49,13 +49,13 @@
 		<alt>:-x</alt>
 		<alt>:-X</alt>
 	</emoticon>
-	<emoticon defaultKey=":*" image="zoidberg.png" text="Kiss" order="11">
+	<emoticon defaultKey=":*" image="kiss.png" text="Kiss" order="11">
 		<alt>(kiss)</alt>
 		<alt>(Kiss)</alt>
 		<alt>(KISS)</alt>
 		<alt>:-*</alt>
 	</emoticon>
-	<emoticon defaultKey="0:)" image="zoidberg.png" text="Angel" order="12">
+	<emoticon defaultKey="0:)" image="angel.png" text="Angel" order="12">
 		<alt>(angel)</alt>
 		<alt>(Angel)</alt>
 		<alt>(ANGEL)</alt>
@@ -65,37 +65,37 @@
 		<alt>o:)</alt>
 		<alt>O:)</alt>
 	</emoticon>
-	<emoticon defaultKey=":!" image="zoidberg.png" text="Worried" order="13">
+	<emoticon defaultKey=":!" image="worried.png" text="Worried" order="13">
 		<alt>(worried)</alt>
 		<alt>(Worried)</alt>
 		<alt>(WORRIED)</alt>
 		<alt>:-!</alt>
 	</emoticon>
-	<emoticon defaultKey=":[" image="zoidberg.png" text="Blush" order="14">
+	<emoticon defaultKey=":[" image="blush.png" text="Blush" order="14">
 		<alt>(blush)</alt>
 		<alt>(Blush)</alt>
 		<alt>(BLUSH)</alt>
 		<alt>:-[</alt>
 	</emoticon>
-	<emoticon defaultKey=":'(" image="zoidberg.png" text="Crying" order="15">
+	<emoticon defaultKey=":'(" image="crying.png" text="Crying" order="15">
 		<alt>:'-(</alt>
 		<alt>T_T</alt>
 		<alt>T.T</alt>
 	</emoticon>
-	<emoticon defaultKey=":/" image="zoidberg.png" text="Unimpressed" order="16">
+	<emoticon defaultKey=":/" image="unimpressed.png" text="Unimpressed" order="16">
 		<alt>:-/</alt>
 		<alt>:-\</alt>
 		<alt>:\</alt>
 		<alt>:-|</alt>
 		<alt>:|</alt>
 	</emoticon>
-	<emoticon defaultKey="XD" image="zoidberg.png" text="LOL" order="17">
+	<emoticon defaultKey="XD" image="lolold.png" text="LOL" order="17">
 		<alt>=D</alt>
 	</emoticon>
-	<emoticon defaultKey="(*_*)" image="zoidberg.png" text="Love at first sight" order="18">
+	<emoticon defaultKey="(*_*)" image="love-at-first-sight.png" text="Love at first sight" order="18">
 		<alt>*IN LOVE*</alt>
 	</emoticon>
-	<emoticon defaultKey=":-B" image="zoidberg.png" text="Nerd" order="19">
+	<emoticon defaultKey=":-B" image="nerd.png" text="Nerd" order="19">
 		<alt>B-|</alt>
 		<alt>8-B</alt>
 		<alt>*8-|</alt>
@@ -103,437 +103,437 @@
 		<alt>(Nerd)</alt>
 		<alt>(NERD)</alt>
 	</emoticon>
-	<emoticon defaultKey="{:o" image="zoidberg.png" text="Surprised" order="20">
+	<emoticon defaultKey="{:o" image="surprised.png" text="Surprised" order="20">
 		<alt>(:-)</alt>
 	</emoticon>
-	<emoticon defaultKey=":-{" image="zoidberg.png" text="Blank" order="21">
+	<emoticon defaultKey=":-{" image="blank.png" text="Blank" order="21">
 		<alt>:{</alt>
 	</emoticon>
-	<emoticon defaultKey="=.=" image="zoidberg.png" text="Closed eyes" order="22">
+	<emoticon defaultKey="=.=" image="closed_to_the_world.png" text="Closed eyes" order="22">
 	</emoticon>
-	<emoticon defaultKey="X-0" image="zoidberg.png" text="Crazy" order="23">
+	<emoticon defaultKey="X-0" image="crazy.png" text="Crazy" order="23">
 	</emoticon>
-	<emoticon defaultKey=":'-)" image="zoidberg.png" text="Tears of joy" order="24">
+	<emoticon defaultKey=":'-)" image="crying-laugh.png" text="Tears of joy" order="24">
 	</emoticon>
-	<emoticon defaultKey="*_*" image="zoidberg.png" text="Dazed" order="25">
+	<emoticon defaultKey="*_*" image="dazed.png" text="Dazed" order="25">
 	</emoticon>
-	<emoticon defaultKey="x_x" image="zoidberg.png" text="Dead" order="26">
+	<emoticon defaultKey="x_x" image="dead.png" text="Dead" order="26">
 		<alt>X_X</alt>
 	</emoticon>
-	<emoticon defaultKey="|:-\" image="zoidberg.png" text="Disapproval" order="27">
+	<emoticon defaultKey="|:-\" image="disaproval.png" text="Disapproval" order="27">
 		<alt>X:-/</alt>
 		<alt>|:|</alt>
 		<alt>(disapproval)</alt>
 	</emoticon>
-	<emoticon defaultKey="#)" image="zoidberg.png" text="Sleep" order="28">
+	<emoticon defaultKey="#)" image="sleep.png" text="Sleep" order="28">
 		<alt>|-)</alt>
 		<alt>u_u</alt>
 	</emoticon>
-	<emoticon defaultKey="(&gt;.&lt;)" image="zoidberg.png" text="Sleepy" order="29">
+	<emoticon defaultKey="(&gt;.&lt;)" image="sleepy.png" text="Sleepy" order="29">
 		<alt>(sleepy)</alt>
 	</emoticon>
-	<emoticon defaultKey=":-+" image="zoidberg.png" text="Speechless" order="30">
+	<emoticon defaultKey=":-+" image="spechless.png" text="Speechless" order="30">
 		<alt>:-#</alt>
 	</emoticon>
-	<emoticon defaultKey=":-I" image="zoidberg.png" text="Thinking" order="31">
+	<emoticon defaultKey=":-I" image="unemotional.png" text="Thinking" order="31">
 	</emoticon>
-	<emoticon defaultKey=":-&lt;" image="zoidberg.png" text="Upset" order="32">
+	<emoticon defaultKey=":-&lt;" image="upset.png" text="Upset" order="32">
 		<alt>(upset)</alt>
 	</emoticon>
-	<emoticon defaultKey="(:-$" image="zoidberg.png" text="Sick" order="33">
+	<emoticon defaultKey="(:-$" image="sick.png" text="Sick" order="33">
 		<alt>+o(</alt>
 	</emoticon>
-	<emoticon defaultKey=":present" image="zoidberg.png" text="Present" order="34">
+	<emoticon defaultKey=":present" image="present.png" text="Present" order="34">
 	</emoticon>
-	<emoticon defaultKey=":parcel" image="zoidberg.png" text="Parcel" order="35">
+	<emoticon defaultKey=":parcel" image="Parcel.png" text="Parcel" order="35">
 	</emoticon>
-	<emoticon defaultKey="(^)" image="zoidberg.png" text="Cake" order="36">
+	<emoticon defaultKey="(^)" image="cake.png" text="Cake" order="36">
 		<alt>(cake)</alt>
 		<alt>(Cake)</alt>
 		<alt>(CAKE)</alt>	
 	</emoticon>
-	<emoticon defaultKey="C(_)" image="zoidberg.png" text="Coffee" order="37">
+	<emoticon defaultKey="C(_)" image="coffee.png" text="Coffee" order="37">
 		<alt>(coffee)</alt>
 		<alt>(Coffee)</alt>
 		<alt>(COFFEE)</alt>
 		<alt>c(_)</alt>
 	</emoticon>
-	<emoticon defaultKey="&lt;3" image="zoidberg.png" text="Heart" order="38">
+	<emoticon defaultKey="&lt;3" image="heart.png" text="Heart" order="38">
 		<alt>(heart)</alt>
 	</emoticon>
-	<emoticon defaultKey="&lt;/3" image="zoidberg.png" text="Broken Heart" order="39">
+	<emoticon defaultKey="&lt;/3" image="brokenheart.png" text="Broken Heart" order="39">
 		<alt>(brokenheart)</alt>
 	</emoticon>
-	<emoticon defaultKey="(*)" image="zoidberg.png" text="Star" order="40">
+	<emoticon defaultKey="(*)" image="star.png" text="Star" order="40">
 		<alt>(star)</alt>
 		<alt>(Star)</alt>
 		<alt>(STAR)</alt>
 	</emoticon>
-	<emoticon defaultKey="(y)" image="zoidberg.png" text="Thumbs Up" order="41">
+	<emoticon defaultKey="(y)" image="thumbs-up.png" text="Thumbs Up" order="41">
 		<alt>(^-^)b</alt>
 		<alt>=b</alt>
 	</emoticon>
-	<emoticon defaultKey="(n)" image="zoidberg.png" text="Thumbs Down" order="42">
+	<emoticon defaultKey="(n)" image="thumbs-down.png" text="Thumbs Down" order="42">
 		<alt>(^-^)p</alt>
 		<alt>=p</alt>
 	</emoticon>
-	<emoticon defaultKey="(point down)" image="zoidberg.png" text="Point down" order="43">
+	<emoticon defaultKey="(point down)" image="Point-down.png" text="Point down" order="43">
 		<alt>(Point Down)</alt>
 		<alt>(pointdown)</alt>
 		<alt>(Pointdown)</alt>
 	</emoticon>
-	<emoticon defaultKey="(point left)" image="zoidberg.png" text="Point left" order="44">
+	<emoticon defaultKey="(point left)" image="Point-left.png" text="Point left" order="44">
 		<alt>(Point Left)</alt>
 		<alt>(pointleft)</alt>
 		<alt>(Pointleft)</alt>
 	</emoticon>
-	<emoticon defaultKey="(point up)" image="zoidberg.png" text="Point up" order="45">
+	<emoticon defaultKey="(point up)" image="Point-up.png" text="Point up" order="45">
 		<alt>(Point Up)</alt>
 		<alt>(pointup)</alt>
 		<alt>(Pointup)</alt>
 	</emoticon>
-	<emoticon defaultKey="(point right)" image="zoidberg.png" text="Point right" order="46">
+	<emoticon defaultKey="(point right)" image="Point-right.png" text="Point right" order="46">
 		<alt>(Point Right)</alt>
 		<alt>(pointright)</alt>
 		<alt>(Pointright)</alt>
 	</emoticon>
-	<emoticon defaultKey="(peace)" image="zoidberg.png" text="Peace" order="47">
+	<emoticon defaultKey="(peace)" image="peace.png" text="Peace" order="47">
 		<alt>(Peace)</alt>
 	</emoticon>
-	<emoticon defaultKey="(fist)" image="zoidberg.png" text="Fist" order="48">
+	<emoticon defaultKey="(fist)" image="fist.png" text="Fist" order="48">
 		<alt>(Fist)</alt>
 	</emoticon>
-	<emoticon defaultKey="(rockon)" image="zoidberg.png" text="Rock on" order="49">
+	<emoticon defaultKey="(rockon)" image="rock-on.png" text="Rock on" order="49">
 		<alt>(Rockon)</alt>
 		<alt>(RockOn)</alt>
 		<alt>(ROCKON)</alt>
 		<alt>\m/</alt>
 	</emoticon>
-	<emoticon defaultKey="(ok)" image="zoidberg.png" text="OK" order="50">
+	<emoticon defaultKey="(ok)" image="OK.png" text="OK" order="50">
 		<alt>(OK)</alt>
 		<alt>(okay)</alt>
 		<alt>(a ok)</alt>
 	</emoticon>
-	<emoticon defaultKey="(egg)" image="zoidberg.png" order="51" text="egg" >
+	<emoticon defaultKey="(egg)" image="egg.png" order="51" text="egg" >
 		<alt>(Egg)</alt>
 		<alt>(EGG)</alt>
 	</emoticon>
-	<emoticon defaultKey="(drink)" image="zoidberg.png" order="52" text="drink" >
+	<emoticon defaultKey="(drink)" image="drink.png" order="52" text="drink" >
 		<alt>(Drink)</alt>
 		<alt>(DRINK)</alt>
 	</emoticon>
-	<emoticon defaultKey="(beer)" image="zoidberg.png" order="53" text="beer" >	
+	<emoticon defaultKey="(beer)" image="beer.png" order="53" text="beer" >	
 		<alt>(Beer)</alt>
 		<alt>(BEER)</alt>
 	</emoticon>
-	<emoticon defaultKey="(duck)" image="zoidberg.png" order="54" text="duck" >
+	<emoticon defaultKey="(duck)" image="duck.png" order="54" text="duck" >
 		<alt>(Duck)</alt>
 		<alt>(DUCK)</alt>
 	</emoticon>
-	<emoticon defaultKey="(:kevin)" image="zoidberg.png" order="55" text="Kevin" >
+	<emoticon defaultKey="(:kevin)" image="kevin.png" order="55" text="Kevin" >
 	</emoticon>
-	<emoticon defaultKey=":spockon" image="zoidberg.png" order="56" text="Spock on" >
+	<emoticon defaultKey=":spockon" image="spockon.png" order="56" text="Spock on" >
 	</emoticon>
-	<emoticon defaultKey=":callme" image="zoidberg.png" order="57" text="callme"  clickToCall="true">
+	<emoticon defaultKey=":callme" image="callme.png" order="57" text="callme"  clickToCall="true">
 	</emoticon>
-	<emoticon defaultKey="(mindblown)" image="zoidberg.png" text="mind blown" order="33">
+	<emoticon defaultKey="(mindblown)" image="mindblown.gif" text="mind blown" order="33">
 	 <alt>(Mindblown)</alt>
   </emoticon>
-  <emoticon defaultKey="(happyhour)" image="zoidberg.png" text="happy hour" order="58">
+  <emoticon defaultKey="(happyhour)" image="happyhour.gif" text="happy hour" order="58">
 	 <alt>(Happyhour)</alt>
   </emoticon>
-  <emoticon defaultKey="(:dance)" image="zoidberg.png" text="dancing" order="59">
+  <emoticon defaultKey="(:dance)" image="dance.gif" text="dancing" order="59">
 	 <alt>(:Dance)</alt>
   </emoticon>
-  <emoticon defaultKey="(allthethings)" image="zoidberg.png" order="60" text="allthethings">
+  <emoticon defaultKey="(allthethings)" image="allthethings.png" order="60" text="allthethings">
 <alt>(Allthethings)</alt>
 </emoticon>
-<emoticon defaultKey="(android)" image="zoidberg.png" order="61" text="android">
+<emoticon defaultKey="(android)" image="android.png" order="61" text="android">
 <alt>(Android)</alt>
 </emoticon>
-<emoticon defaultKey="(areyoukiddingme)" image="zoidberg.png" order="62" text="areyoukiddingme">
+<emoticon defaultKey="(areyoukiddingme)" image="areyoukiddingme.png" order="62" text="areyoukiddingme">
 <alt>(Areyoukiddingme)</alt>
 </emoticon>
-<emoticon defaultKey="(awthanks)" image="zoidberg.png" order="63" text="awthanks">
+<emoticon defaultKey="(awthanks)" image="awthanks.png" order="63" text="awthanks">
 <alt>(Awthanks)</alt>
 </emoticon>
-<emoticon defaultKey="(awyea)" image="zoidberg.png" order="64" text="awyea">
+<emoticon defaultKey="(awyea)" image="awyea.png" order="64" text="awyea">
 <alt>(Awyea)</alt>
 </emoticon>
-<emoticon defaultKey="(badass)" image="zoidberg.png" order="65" text="badass">
+<emoticon defaultKey="(badass)" image="badass.png" order="65" text="badass">
 <alt>(Badass)</alt>
 </emoticon>
-<emoticon defaultKey="(badpokerface)" image="zoidberg.png" order="66" text="badpokerface">
+<emoticon defaultKey="(badpokerface)" image="badpokerface.png" order="66" text="badpokerface">
 <alt>(Badpokerface)</alt>
 </emoticon>
-<emoticon defaultKey="(basket)" image="zoidberg.png" order="67" text="basket">
+<emoticon defaultKey="(basket)" image="basket.png" order="67" text="basket">
 <alt>(Basket)</alt>
 </emoticon>
-<emoticon defaultKey="(boom)" image="zoidberg.png" order="68" text="boom">
+<emoticon defaultKey="(boom)" image="boom.gif" order="68" text="boom">
 <alt>(Boom)</alt>
 </emoticon>
-<emoticon defaultKey="(bumble)" image="zoidberg.png" order="69" text="bumble">
+<emoticon defaultKey="(bumble)" image="bumble.png" order="69" text="bumble">
 <alt>(Bumble)</alt>
 </emoticon>
-<emoticon defaultKey="(bunny)" image="zoidberg.png" order="70" text="bunny">
+<emoticon defaultKey="(bunny)" image="bunny.png" order="70" text="bunny">
 <alt>(Bunny)</alt>
 </emoticon>
-<emoticon defaultKey="(cadbury)" image="zoidberg.png" order="71" text="cadbury">
+<emoticon defaultKey="(cadbury)" image="cadbury.png" order="71" text="cadbury">
 <alt>(Cadbury)</alt>
 </emoticon>
-<emoticon defaultKey="(candycorn)" image="zoidberg.png" order="72" text="candycorn">
+<emoticon defaultKey="(candycorn)" image="candycorn.png" order="72" text="candycorn">
 <alt>(Candycorn)</alt>
 </emoticon>
-<emoticon defaultKey="(caruso)" image="zoidberg.png" order="73" text="caruso">
+<emoticon defaultKey="(caruso)" image="caruso.png" order="73" text="caruso">
 <alt>(Caruso)</alt>
 </emoticon>
-<emoticon defaultKey="(ceilingcat)" image="zoidberg.png" order="74" text="ceilingcat">
+<emoticon defaultKey="(ceilingcat)" image="ceilingcat.png" order="74" text="ceilingcat">
 <alt>(Ceilingcat)</alt>
 </emoticon>
-<emoticon defaultKey="(cerealguy)" image="zoidberg.png" order="75" text="cerealguy">
+<emoticon defaultKey="(cerealguy)" image="cerealguy.png" order="75" text="cerealguy">
 <alt>(Cerealguy)</alt>
 </emoticon>
-<emoticon defaultKey="(challengeaccepted)" image="zoidberg.png" order="76" text="challengeaccepted">
+<emoticon defaultKey="(challengeaccepted)" image="challengeaccepted.png" order="76" text="challengeaccepted">
 <alt>(Challengeaccepted)</alt>
 </emoticon>
-<emoticon defaultKey="(chewy)" image="zoidberg.png" order="77" text="chewy">
+<emoticon defaultKey="(chewy)" image="chewy.png" order="77" text="chewy">
 <alt>(Chewy)</alt>
 </emoticon>
-<emoticon defaultKey="(chocobunny)" image="zoidberg.png" order="78" text="chocobunny">
+<emoticon defaultKey="(chocobunny)" image="chocobunny.png" order="78" text="chocobunny">
 <alt>(Chocobunny)</alt>
 </emoticon>
-<emoticon defaultKey="(cholo)" image="zoidberg.png" order="79" text="cholo">
+<emoticon defaultKey="(cholo)" image="cholo.gif" order="79" text="cholo">
 <alt>(Cholo)</alt>
 </emoticon>
-<emoticon defaultKey="(chompy)" image="zoidberg.png" order="80" text="chompy">
+<emoticon defaultKey="(chompy)" image="chompy.gif" order="80" text="chompy">
 <alt>(Chompy)</alt>
 </emoticon>
-<emoticon defaultKey="(content)" image="zoidberg.png" order="81" text="content">
+<emoticon defaultKey="(content)" image="content.png" order="81" text="content">
 <alt>(Content)</alt>
 </emoticon>
-<emoticon defaultKey="(cornelius)" image="zoidberg.png" order="82" text="cornelius">
+<emoticon defaultKey="(cornelius)" image="cornelius.png" order="82" text="cornelius">
 <alt>(Cornelius)</alt>
 </emoticon>
-<emoticon defaultKey="(dealwithit)" image="zoidberg.png" order="83" text="dealwithit">
+<emoticon defaultKey="(dealwithit)" image="dealwithit.gif" order="83" text="dealwithit">
 <alt>(Dealwithit)</alt>
 </emoticon>
-<emoticon defaultKey="(derp)" image="zoidberg.png" order="84" text="derp">
+<emoticon defaultKey="(derp)" image="derp.png" order="84" text="derp">
 <alt>(Derp)</alt>
 </emoticon>
-<emoticon defaultKey="(disapproval)" image="zoidberg.png" order="85" text="disapproval">
+<emoticon defaultKey="(disapproval)" image="disapproval.png" order="85" text="disapproval">
 <alt>(Disapproval)</alt>
 </emoticon>
-<emoticon defaultKey="(dosequis)" image="zoidberg.png" order="86" text="dosequis">
+<emoticon defaultKey="(dosequis)" image="dosequis.png" order="86" text="dosequis">
 <alt>(Dosequis)</alt>
 </emoticon>
-<emoticon defaultKey="(drevil)" image="zoidberg.png" order="87" text="drevil">
+<emoticon defaultKey="(drevil)" image="drevil.png" order="87" text="drevil">
 <alt>(Drevil)</alt>
 </emoticon>
-<emoticon defaultKey="(ducreux)" image="zoidberg.png" order="88" text="ducreux">
+<emoticon defaultKey="(ducreux)" image="ducreux.png" order="88" text="ducreux">
 <alt>(Ducreux)</alt>
 </emoticon>
-<emoticon defaultKey="(dumbbitch)" image="zoidberg.png" order="89" text="dumbbitch">
+<emoticon defaultKey="(dumbbitch)" image="dumbbitch.png" order="89" text="dumbbitch">
 <alt>(Dumbbitch)</alt>
 </emoticon>
-<emoticon defaultKey="(facepalm)" image="zoidberg.png" order="90" text="facepalm">
+<emoticon defaultKey="(facepalm)" image="facepalm.png" order="90" text="facepalm">
 <alt>(Facepalm)</alt>
 </emoticon>
-<emoticon defaultKey="(fap)" image="zoidberg.png" order="91" text="fap">
+<emoticon defaultKey="(fap)" image="fap.png" order="91" text="fap">
 <alt>(Fap)</alt>
 </emoticon>
-<emoticon defaultKey="(farnsworth)" image="zoidberg.png" order="92" text="farnsworth">
+<emoticon defaultKey="(farnsworth)" image="farnsworth.png" order="92" text="farnsworth">
 <alt>(Farnsworth)</alt>
 </emoticon>
-<emoticon defaultKey="(foreveralone)" image="zoidberg.png" order="93" text="foreveralone">
+<emoticon defaultKey="(foreveralone)" image="foreveralone.png" order="93" text="foreveralone">
 <alt>(Foreveralone)</alt>
 </emoticon>
-<emoticon defaultKey="(freddie)" image="zoidberg.png" order="94" text="freddie">
+<emoticon defaultKey="(freddie)" image="freddie.png" order="94" text="freddie">
 <alt>(Freddie)</alt>
 </emoticon>
-<emoticon defaultKey="(fry)" image="zoidberg.png" order="95" text="fry">
+<emoticon defaultKey="(fry)" image="fry.png" order="95" text="fry">
 <alt>(Fry)</alt>
 </emoticon>
-<emoticon defaultKey="(fuckyeah)" image="zoidberg.png" order="96" text="fuckyeah">
+<emoticon defaultKey="(fuckyeah)" image="fuckyeah.png" order="96" text="fuckyeah">
 <alt>(Fuckyeah)</alt>
 </emoticon>
-<emoticon defaultKey="(gates)" image="zoidberg.png" order="97" text="gates">
+<emoticon defaultKey="(gates)" image="gates.png" order="97" text="gates">
 <alt>(Gates)</alt>
 </emoticon>
-<emoticon defaultKey="(ghost)" image="zoidberg.png" order="98" text="ghost">
+<emoticon defaultKey="(ghost)" image="ghost.png" order="98" text="ghost">
 <alt>(Ghost)</alt>
 </emoticon>
-<emoticon defaultKey="(greenbeer)" image="zoidberg.png" order="99" text="greenbeer">
+<emoticon defaultKey="(greenbeer)" image="greenbeer.png" order="99" text="greenbeer">
 <alt>(Greenbeer)</alt>
 </emoticon>
-<emoticon defaultKey="(gtfo)" image="zoidberg.png" order="100" text="gtfo">
+<emoticon defaultKey="(gtfo)" image="gtfo.png" order="100" text="gtfo">
 <alt>(Gtfo)</alt>
 </emoticon>
-<emoticon defaultKey="(haveaseat)" image="zoidberg.png" order="101" text="haveaseat">
+<emoticon defaultKey="(haveaseat)" image="haveaseat.png" order="101" text="haveaseat">
 <alt>(Haveaseat)</alt>
 </emoticon>
-<emoticon defaultKey="(hipster)" image="zoidberg.png" order="102" text="hipster">
+<emoticon defaultKey="(hipster)" image="hipster.png" order="102" text="hipster">
 <alt>(Hipster)</alt>
 </emoticon>
-<emoticon defaultKey="(ilied)" image="zoidberg.png" order="103" text="ilied">
+<emoticon defaultKey="(ilied)" image="ilied.png" order="103" text="ilied">
 <alt>(Ilied)</alt>
 </emoticon>
-<emoticon defaultKey="(indeed)" image="zoidberg.png" order="104" text="indeed">
+<emoticon defaultKey="(indeed)" image="indeed.png" order="104" text="indeed">
 <alt>(Indeed)</alt>
 </emoticon>
-<emoticon defaultKey="(itsatrap)" image="zoidberg.png" order="105" text="itsatrap">
+<emoticon defaultKey="(itsatrap)" image="itsatrap.png" order="105" text="itsatrap">
 <alt>(Itsatrap)</alt>
 </emoticon>
-<emoticon defaultKey="(jackie)" image="zoidberg.png" order="106" text="jackie">
+<emoticon defaultKey="(jackie)" image="jackie.png" order="106" text="jackie">
 <alt>(Jackie)</alt>
 </emoticon>
-<emoticon defaultKey="(jobs)" image="zoidberg.png" order="107" text="jobs">
+<emoticon defaultKey="(jobs)" image="jobs.png" order="107" text="jobs">
 <alt>(Jobs)</alt>
 </emoticon>
-<emoticon defaultKey="(kennypowers)" image="zoidberg.png" order="108" text="kennypowers">
+<emoticon defaultKey="(kennypowers)" image="kennypowers.png" order="108" text="kennypowers">
 <alt>(Kennypowers)</alt>
 </emoticon>
-<emoticon defaultKey="(krang)" image="zoidberg.png" order="109" text="krang">
+<emoticon defaultKey="(krang)" image="krang.gif" order="109" text="krang">
 <alt>(Krang)</alt>
 </emoticon>
-<emoticon defaultKey="(kwanzaa)" image="zoidberg.png" order="110" text="kwanzaa">
+<emoticon defaultKey="(kwanzaa)" image="kwanzaa.png" order="110" text="kwanzaa">
 <alt>(Kwanzaa)</alt>
 </emoticon>
-<emoticon defaultKey="(lincoln)" image="zoidberg.png" order="111" text="lincoln">
+<emoticon defaultKey="(lincoln)" image="lincoln.png" order="111" text="lincoln">
 <alt>(Lincoln)</alt>
 </emoticon>
-<emoticon defaultKey="(lol)" image="zoidberg.png" order="112" text="lol">
+<emoticon defaultKey="(lol)" image="lol.png" order="112" text="lol">
 <alt>(Lol)</alt>
 </emoticon>
-<emoticon defaultKey="(lolwut)" image="zoidberg.png" order="113" text="lolwut">
+<emoticon defaultKey="(lolwut)" image="lolwut.png" order="113" text="lolwut">
 <alt>(Lolwut)</alt>
 </emoticon>
-<emoticon defaultKey="(megusta)" image="zoidberg.png" order="114" text="megusta">
+<emoticon defaultKey="(megusta)" image="megusta.png" order="114" text="megusta">
 <alt>(Megusta)</alt>
 </emoticon>
-<emoticon defaultKey="(menorah)" image="zoidberg.png" order="115" text="menorah">
+<emoticon defaultKey="(menorah)" image="menorah.png" order="115" text="menorah">
 <alt>(Menorah)</alt>
 </emoticon>
-<emoticon defaultKey="(moneymouth)" image="zoidberg.png" order="116" text="moneymouth">
+<emoticon defaultKey="(moneymouth)" image="moneymouth.png" order="116" text="moneymouth">
 <alt>(Moneymouth)</alt>
 </emoticon>
-<emoticon defaultKey="(ninja)" image="zoidberg.png" order="117" text="ninja">
+<emoticon defaultKey="(ninja)" image="ninja.png" order="117" text="ninja">
 <alt>(Ninja)</alt>
 </emoticon>
-<emoticon defaultKey="(notbad)" image="zoidberg.png" order="118" text="notbad">
+<emoticon defaultKey="(notbad)" image="notbad.png" order="118" text="notbad">
 <alt>(Notbad)</alt>
 </emoticon>
-<emoticon defaultKey="(nothingtodohere)" image="zoidberg.png" order="119" text="nothingtodohere">
+<emoticon defaultKey="(nothingtodohere)" image="nothingtodohere.png" order="119" text="nothingtodohere">
 <alt>(Nothingtodohere)</alt>
 </emoticon>
-<emoticon defaultKey="(ohcrap)" image="zoidberg.png" order="120" text="ohcrap">
+<emoticon defaultKey="(ohcrap)" image="ohcrap.png" order="120" text="ohcrap">
 <alt>(Ohcrap)</alt>
 </emoticon>
 <emoticon defaultKey="(ohgodwhy.)" image="ohgodwhy.jpeg" order="121" text="ohgodwhy.">
 <alt>(Ohgodwhy.)</alt>
 </emoticon>
-<emoticon defaultKey="(okay)" image="zoidberg.png" order="122" text="okay">
+<emoticon defaultKey="(okay)" image="okay.png" order="122" text="okay">
 <alt>(Okay)</alt>
 </emoticon>
-<emoticon defaultKey="(omg)" image="zoidberg.png" order="123" text="omg">
+<emoticon defaultKey="(omg)" image="omg.png" order="123" text="omg">
 <alt>(Omg)</alt>
 </emoticon>
-<emoticon defaultKey="(oops)" image="zoidberg.png" order="124" text="oops">
+<emoticon defaultKey="(oops)" image="oops.png" order="124" text="oops">
 <alt>(Oops)</alt>
 </emoticon>
-<emoticon defaultKey="(pbr)" image="zoidberg.png" order="125" text="pbr">
+<emoticon defaultKey="(pbr)" image="pbr.png" order="125" text="pbr">
 <alt>(Pbr)</alt>
 </emoticon>
-<emoticon defaultKey="(philosoraptor)" image="zoidberg.png" order="126" text="philosoraptor">
+<emoticon defaultKey="(philosoraptor)" image="philosoraptor.png" order="126" text="philosoraptor">
 <alt>(Philosoraptor)</alt>
 </emoticon>
-<emoticon defaultKey="(pingpong)" image="zoidberg.png" order="127" text="pingpong">
+<emoticon defaultKey="(pingpong)" image="pingpong.png" order="127" text="pingpong">
 <alt>(Pingpong)</alt>
 </emoticon>
-<emoticon defaultKey="(pokerface)" image="zoidberg.png" order="128" text="pokerface">
+<emoticon defaultKey="(pokerface)" image="pokerface.png" order="128" text="pokerface">
 <alt>(Pokerface)</alt>
 </emoticon>
-<emoticon defaultKey="(poo)" image="zoidberg.png" order="129" text="poo">
+<emoticon defaultKey="(poo)" image="poo.png" order="129" text="poo">
 <alt>(Poo)</alt>
 </emoticon>
-<emoticon defaultKey="(presentnew)" image="zoidberg.png" order="130" text="present" hidden="true">
+<emoticon defaultKey="(presentnew)" image="presentnew.png" order="130" text="present" hidden="true">
 <alt>(Presentnew)</alt>
 </emoticon>
-<emoticon defaultKey="(pumpkin)" image="zoidberg.png" order="131" text="pumpkin">
+<emoticon defaultKey="(pumpkin)" image="pumpkin.png" order="131" text="pumpkin">
 <alt>(Pumpkin)</alt>
 </emoticon>
-<emoticon defaultKey="(rageguy)" image="zoidberg.png" order="132" text="rageguy">
+<emoticon defaultKey="(rageguy)" image="rageguy.png" order="132" text="rageguy">
 <alt>(Rageguy)</alt>
 </emoticon>
-<emoticon defaultKey="(rebeccablack)" image="zoidberg.png" order="133" text="rebeccablack">
+<emoticon defaultKey="(rebeccablack)" image="rebeccablack.png" order="133" text="rebeccablack">
 <alt>(Rebeccablack)</alt>
 </emoticon>
-<emoticon defaultKey="(reddit)" image="zoidberg.png" order="134" text="reddit">
+<emoticon defaultKey="(reddit)" image="reddit.png" order="134" text="reddit">
 <alt>(Reddit)</alt>
 </emoticon>
-<emoticon defaultKey="(rudolph)" image="zoidberg.png" order="135" text="rudolph">
+<emoticon defaultKey="(rudolph)" image="rudolph.png" order="135" text="rudolph">
 <alt>(Rudolph)</alt>
 </emoticon>
-<emoticon defaultKey="(sadpanda)" image="zoidberg.png" order="136" text="sadpanda">
+<emoticon defaultKey="(sadpanda)" image="sadpanda.png" order="136" text="sadpanda">
 <alt>(Sadpanda)</alt>
 </emoticon>
-<emoticon defaultKey="(sadtroll)" image="zoidberg.png" order="137" text="sadtroll">
+<emoticon defaultKey="(sadtroll)" image="sadtroll.png" order="137" text="sadtroll">
 <alt>(Sadtroll)</alt>
 </emoticon>
-<emoticon defaultKey="(samuel)" image="zoidberg.png" order="138" text="samuel">
+<emoticon defaultKey="(samuel)" image="samuel.png" order="138" text="samuel">
 <alt>(Samuel)</alt>
 </emoticon>
-<emoticon defaultKey="(santa)" image="zoidberg.png" order="139" text="santa">
+<emoticon defaultKey="(santa)" image="santa.png" order="139" text="santa">
 <alt>(Santa)</alt>
 </emoticon>
-<emoticon defaultKey="(scumbag)" image="zoidberg.png" order="140" text="scumbag">
+<emoticon defaultKey="(scumbag)" image="scumbag.png" order="140" text="scumbag">
 <alt>(Scumbag)</alt>
 </emoticon>
-<emoticon defaultKey="(shamrock)" image="zoidberg.png" order="141" text="shamrock">
+<emoticon defaultKey="(shamrock)" image="shamrock.png" order="141" text="shamrock">
 <alt>(Shamrock)</alt>
 </emoticon>
-<emoticon defaultKey="(skyrim)" image="zoidberg.png" order="142" text="skyrim">
+<emoticon defaultKey="(skyrim)" image="skyrim.png" order="142" text="skyrim">
 <alt>(Skyrim)</alt>
 </emoticon>
-<emoticon defaultKey="(stare)" image="zoidberg.png" order="143" text="stare">
+<emoticon defaultKey="(stare)" image="stare.png" order="143" text="stare">
 <alt>(Stare)</alt>
 </emoticon>
-<emoticon defaultKey="(sweetjesus)" image="zoidberg.png" order="144" text="sweetjesus">
+<emoticon defaultKey="(sweetjesus)" image="sweetjesus.png" order="144" text="sweetjesus">
 <alt>(Sweetjesus)</alt>
 </emoticon>
-<emoticon defaultKey="(taft)" image="zoidberg.png" order="145" text="taft">
+<emoticon defaultKey="(taft)" image="taft.png" order="145" text="taft">
 <alt>(Taft)</alt>
 </emoticon>
-<emoticon defaultKey="(tea)" image="zoidberg.png" order="146" text="tea">
+<emoticon defaultKey="(tea)" image="tea.png" order="146" text="tea">
 <alt>(Tea)</alt>
 </emoticon>
-<emoticon defaultKey="(tree)" image="zoidberg.png" order="147" text="tree">
+<emoticon defaultKey="(tree)" image="tree.png" order="147" text="tree">
 <alt>(Tree)</alt>
 </emoticon>
-<emoticon defaultKey="(troll)" image="zoidberg.png" order="148" text="troll">
+<emoticon defaultKey="(troll)" image="troll.png" order="148" text="troll">
 <alt>(Troll)</alt>
 </emoticon>
-<emoticon defaultKey="(truestory)" image="zoidberg.png" order="149" text="truestory">
+<emoticon defaultKey="(truestory)" image="truestory.png" order="149" text="truestory">
 <alt>(Truestory)</alt>
 </emoticon>
-<emoticon defaultKey="(turkey)" image="zoidberg.png" order="150" text="turkey">
+<emoticon defaultKey="(turkey)" image="turkey.png" order="150" text="turkey">
 <alt>(Turkey)</alt>
 </emoticon>
-<emoticon defaultKey="(washington)" image="zoidberg.png" order="151" text="washington">
+<emoticon defaultKey="(washington)" image="washington.png" order="151" text="washington">
 <alt>(Washington)</alt>
 </emoticon>
-<emoticon defaultKey="(wat)" image="zoidberg.png" order="152" text="wat">
+<emoticon defaultKey="(wat)" image="wat.png" order="152" text="wat">
 <alt>(Wat)</alt>
 </emoticon>
-<emoticon defaultKey="(wtf)" image="zoidberg.png" order="153" text="wtf">
+<emoticon defaultKey="(wtf)" image="wtf.png" order="153" text="wtf">
 <alt>(Wtf)</alt>
 </emoticon>
-<emoticon defaultKey="(yey)" image="zoidberg.png" order="154" text="yey">
+<emoticon defaultKey="(yey)" image="yey.png" order="154" text="yey">
 <alt>(Yey)</alt>
 </emoticon>
-<emoticon defaultKey="(yodawg)" image="zoidberg.png" order="155" text="yodawg">
+<emoticon defaultKey="(yodawg)" image="yodawg.png" order="155" text="yodawg">
 <alt>(Yodawg)</alt>
 </emoticon>
-<emoticon defaultKey="(yuno)" image="zoidberg.png" order="156" text="yuno">
+<emoticon defaultKey="(yuno)" image="yuno.png" order="156" text="yuno">
 <alt>(Yuno)</alt>
 </emoticon>
 <emoticon defaultKey="(zoidberg)" image="zoidberg.png" order="157" text="zoidberg">
