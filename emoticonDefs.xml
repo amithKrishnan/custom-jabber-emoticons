@@ -539,4 +539,7 @@
 <emoticon defaultKey="(zoidberg)" image="zoidberg.png" order="157" text="zoidberg">
 <alt>(Zoidberg)</alt>
 </emoticon>
+<emoticon image="bug.gif" defaultKey="Amith" order="158" text="amith">
+<alt>(bug)</alt>
+</emoticon>
 </emoticons>
