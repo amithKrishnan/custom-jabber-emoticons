@@ -542,4 +542,16 @@
 <emoticon image="bug.gif" defaultKey="Amith" order="158" text="amith">
 <alt>(bug)</alt>
 </emoticon>
+<emoticon image="dunno.gif" defaultKey="Dunno" order="159" text="dunno">
+<alt>(dunno)</alt>
+</emoticon>
+<emoticon image="face-punch.gif" defaultKey="Punch" order="160" text="punch">
+<alt>(punch)</alt>
+</emoticon>
+<emoticon image="sos.gif" defaultKey="Helpme" order="161" text="helpme">
+<alt>(helpme)</alt>
+</emoticon>
+<emoticon image="knock.gif" defaultKey="Knock" order="162" text="knock">
+<alt>(knock)</alt>
+</emoticon>
 </emoticons>
