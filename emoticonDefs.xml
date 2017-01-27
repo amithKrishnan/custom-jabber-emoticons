@@ -554,4 +554,10 @@
 <emoticon image="knock.gif" defaultKey="Knock" order="162" text="knock">
 <alt>(knock)</alt>
 </emoticon>
+<emoticon defaultKey="(sagar)" image="rageguy.png" order="163" text="sgr">
+<alt>(sagar)</alt>
+</emoticon>
+<emoticon defaultKey="Sagar" image="bluetooth.png" order="164" text="sgr">
+<alt>sagar</alt>
+</emoticon>
 </emoticons>
